@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Mi primer projecto node",
+  "main": "index.js",
+  "scripts": {
+    "script": "node ejercicioNode.js"
+  },
+  "author": "Miguel Velasquez",
+  "license": "ISC"
+}
